@@ -6,7 +6,7 @@ A sleek, modern web-based algebra math game designed for middle school students.
 
 1. Enter your name and pick an emoji avatar
 2. Choose your grade level — Grade 7, 8, or 9
-3. Answer 10 algebra questions before the timer runs out
+3. Answer 20 algebra questions before the timer runs out
 4. Earn points for speed and accuracy
 5. Build streaks for combo multipliers
 6. Challenge your friends with a shareable link!
